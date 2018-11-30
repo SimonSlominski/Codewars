@@ -19,7 +19,7 @@ You can advance through the ranks by completing kata at or above your rank - the
 Honor represents the level of respect a user has earned from the community, based on their skill and contributions. Honor is earned fastest through creating kata, crafting great solutions, and constructive comments.
 
 
-## My stats from 30/11/2018:
+#### My stats from 30/11/2018:
 **Rank:**                  7 kyu
 
 **Honor:**                 80
