@@ -10,16 +10,22 @@ Kata are real code challenges focused on improving skill and technique. Some tra
 ## What's kyu?
 
 **Kyu/Dan Ranks**
+
 Each kata on the site is set to a Kyu/Dan rank, based on its subject area and difficulty. The community collectively determines rank in the Beta Process. Every new Codewarrior (user) on Codewars starts being ranked as 8 Kyu.
 
 **Earning Ranks**
+
 You can advance through the ranks by completing kata at or above your rank - the harder the kata the faster you advance.
 
 **Honor**
+
 Honor represents the level of respect a user has earned from the community, based on their skill and contributions. Honor is earned fastest through creating kata, crafting great solutions, and constructive comments.
 
 
-#### My stats from 30/11/2018:
+## My stats:
+
+**Date:**                  30/11/2018
+
 **Rank:**                  7 kyu
 
 **Honor:**                 80
