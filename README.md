@@ -28,9 +28,9 @@ Honor represents the level of respect a user has earned from the community, base
 
 **Rank:**                  6 kyu 
 
-**Honor:**                 232
+**Honor:**                 241
 
-**Leaderboard Position:**  64,616
+**Leaderboard Position:**  62,912
 
 **Honor Percentile:**      90th
 
