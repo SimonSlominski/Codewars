@@ -24,7 +24,7 @@ Honor represents the level of respect a user has earned from the community, base
 
 ## My stats:
 
-**Date:**                  20/01/2019
+**Date:**                  24/01/2019
 
 **Rank:**                  5 kyu 
 
