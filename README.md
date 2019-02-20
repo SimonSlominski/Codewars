@@ -30,9 +30,9 @@ Honor represents the level of respect a user has earned from the community, base
 
 **Honor:**                 408
 
-**Leaderboard Position:**  31,602
+**Leaderboard Position:**  31,278
 
 **Honor Percentile:**      95rd
 
-**Total Completed Kata:**  52
+**Total Completed Kata:**  53
 
