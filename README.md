@@ -28,11 +28,11 @@ Honor represents the level of respect a user has earned from the community, base
 
 **Rank:**                  5 kyu 
 
-**Honor:**                 438 
+**Honor:**                 441 
 
-**Leaderboard Position:**  28,861
+**Leaderboard Position:**  28,723
 
-**Honor Percentile:**      95rd
+**Honor Percentile:**      Top 14.84%
 
 **Total Completed Kata:**  61
 
