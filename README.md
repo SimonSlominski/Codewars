@@ -24,15 +24,15 @@ Honor represents the level of respect a user has earned from the community, base
 
 ## My stats:
 
-**Date:**                  14/06/2019
+**Date:**                  15/06/2019
 
 **Rank:**                  5 kyu 
 
-**Honor:**                 583
+**Honor:**                 586
 
-**Leaderboard Position:**  22,005
+**Leaderboard Position:**  21,849
 
-**Honor Percentile:**      Top 10.19%
+**Honor Percentile:**      Top 10.10%
 
-**Total Completed Kata:**  98
+**Total Completed Kata:**  99
 
