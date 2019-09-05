@@ -28,9 +28,9 @@ Honor represents the level of respect a user has earned from the community, base
 
 **Date:**                  05/09/2019
 
-**Leaderboard Position:**  18,452
+**Leaderboard Position:**  15,297
 
-**Honor Percentile:**      Top 7.79%
+**Honor Percentile:**      Top 6.46%
 
 **Total Completed Kata:**  119
 
