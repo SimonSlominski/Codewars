@@ -26,10 +26,10 @@ Honor represents the level of respect a user has earned from the community, base
 
 ![alt text](https://www.codewars.com/users/SimonSlominski/badges/large)
 
-**Date:**                  21/12/2021
+**Date:**                  22/12/2021
 
-**Leaderboard Position:**  14,913
+**Leaderboard Position:**  14,750
 
-**Honor Percentile:**      Top 4.159%
+**Honor Percentile:**      Top 4.095%
 
-**Total Completed Kata:**  193
+**Total Completed Kata:**  194
